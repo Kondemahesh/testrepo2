@@ -1,0 +1,4 @@
+yum install -y git                          for installation of git
+git version                                 for versioning
+git clone URL Github                        connecting the git & Github
+gitconfig --global user.name                
